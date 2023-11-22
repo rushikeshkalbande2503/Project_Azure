@@ -40,9 +40,17 @@ Businesses now struggle with fragmented security solutions that can't keep up wi
 
 <h3>Screenshots:</h3>
 
-<img src="https://github.com/rushikeshkalbande2503/Project_Azure/blob/master/assets/img/1.png"></img><br>
-<img src="https://raw.githubusercontent.com/rushikeshkalbande2503/Project_Azure/master/assets/img/2.png"></img><br>
-<img src="https://github.com/rushikeshkalbande2503/Project_Azure/blob/master/assets/img/3.png"></img><br>
+<img src="https://github.com/rushikeshkalbande2503/Project_Azure/blob/master/assets/img/1.png"></img>
+<br>
+<br>
+
+<img src="https://raw.githubusercontent.com/rushikeshkalbande2503/Project_Azure/master/assets/img/2.png"></img>
+<br>
+<br>
+
+<img src="https://github.com/rushikeshkalbande2503/Project_Azure/blob/master/assets/img/3.png"></img>
+<br>
+<br>
 <img src=""></img>
 <img src=""></img>
 <img src=""></img>
