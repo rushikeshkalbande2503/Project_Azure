@@ -55,6 +55,15 @@ Container Registry Created
 <img src="https://github.com/rushikeshkalbande2503/Project_Azure/blob/master/assets/img/cont_r3.png"></img>
 <br>
 <br>
+<img src="https://github.com/rushikeshkalbande2503/Project_Azure/blob/master/assets/img/d1.png"></img>
+<br>
+<br>
+<img src="https://github.com/rushikeshkalbande2503/Project_Azure/blob/master/assets/img/d2.png"></img>
+<br>
+<br>
+<img src="https://github.com/rushikeshkalbande2503/Project_Azure/blob/master/assets/img/d3.png"></img>
+<br>
+<br>
 <img src="https://github.com/rushikeshkalbande2503/Project_Azure/blob/master/assets/img/o1.png"></img>
 <br>
 <br>
