@@ -1,9 +1,9 @@
 <h1>Microsoft-Future-Ready-Talent-Virtual-Internship-Project</h1>
 This is the our final project created for Microsoft Future Ready Talent Virtual Internship Program
 
-<h1><a href="mydns.dkhwdeecfve6hvcx.centralus.azurecontainer.io">Elevating Businesses through Lockfisher Software on Azure</a></h1>
+<h1><a href="http://lockfisher-app.cee0bgh3d5h9g3cj.eastus2.azurecontainer.io/contact.html">Elevating Businesses through Lockfisher Software on Azure</a></h1>
 
-Project Link:  <a href="  mydns.dkhwdeecfve6hvcx.centralus.azurecontainer.io">mydns.dkhwdeecfve6hvcx.centralus.azurecontainer.io</a><br>
+Project Link:  <a href="http://lockfisher-app.cee0bgh3d5h9g3cj.eastus2.azurecontainer.io/contact.html">[mydns.dkhwdeecfve6hvcx.centralus.azurecontainer.io](http://lockfisher-app.cee0bgh3d5h9g3cj.eastus2.azurecontainer.io/contact.html)</a><br>
 
 Demo Video: <a href=""></a>
 
