@@ -43,15 +43,7 @@ Virtual Machine Creation.
 <img src="https://github.com/rushikeshkalbande2503/Project_Azure/blob/master/assets/img/vm.png"></img>
 <br>
 <br>
-<img src=""></img>
-<img src=""></img>
-<img src=""></img>
 
-<br>
-
-<img src=""></img>
-<img src=""></img>
-<img src=""></img>
 
 
 
