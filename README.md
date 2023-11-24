@@ -44,6 +44,38 @@ Virtual Machine Creation.
 <br>
 <br>
 
+Container Registry Created
+<img src="https://github.com/rushikeshkalbande2503/Project_Azure/blob/master/assets/img/con_re1.png"></img>
+<br>
+<br>
+
+<img src="https://github.com/rushikeshkalbande2503/Project_Azure/blob/master/assets/img/cont_r2.png"></img>
+<br>
+<br>
+<img src="https://github.com/rushikeshkalbande2503/Project_Azure/blob/master/assets/img/cont_r3.png"></img>
+<br>
+<br>
+<img src="https://github.com/rushikeshkalbande2503/Project_Azure/blob/master/assets/img/o1.png"></img>
+<br>
+<br>
+<img src="https://github.com/rushikeshkalbande2503/Project_Azure/blob/master/assets/img/o2.png"></img>
+<br>
+<br>
+<img src="https://github.com/rushikeshkalbande2503/Project_Azure/blob/master/assets/img/o3.png"></img>
+<br>
+<br>
+<img src="https://github.com/rushikeshkalbande2503/Project_Azure/blob/master/assets/img/o4.png"></img>
+<br>
+<br>
+<img src="https://github.com/rushikeshkalbande2503/Project_Azure/blob/master/assets/img/o5.png"></img>
+<br>
+<br>
+<img src="https://github.com/rushikeshkalbande2503/Project_Azure/blob/master/assets/img/o6.png"></img>
+<br>
+<br>
+
+
+
 
 
 
