@@ -39,10 +39,16 @@ Businesses now struggle with fragmented security solutions that can't keep up wi
 <p>Lockfisher Software Technology is aware of this urgent issue and is working to transform the cybersecurity market. Our goal is to provide a cutting-edge software suite that is seamlessly compatible with Microsoft Azure. Through the integration of advanced threat intelligence, flexible defence systems, and a user-focused design approach, Lockfisher endeavours to enable enterprises to securely traverse the digital terrain. Our solution ensures a proactive and robust defence for businesses of all sizes by not just addressing current cybersecurity flaws but also anticipating and adapting to the ever-evolving nature of cyber threats.</p>
 
 <h3>Screenshots:</h3>
-
-
+Virtual Machine Creation.
+<img src="https://github.com/rushikeshkalbande2503/Project_Azure/blob/master/assets/img/vm.png"></img>
+<br>
 <br>
 <img src=""></img>
+<img src=""></img>
+<img src=""></img>
+
+<br>
+
 <img src=""></img>
 <img src=""></img>
 <img src=""></img>
